@@ -1,0 +1,119 @@
+{
+  "status": "OK",
+  "request_id": "e87511a7-de70-4841-b1fe-ec6cdbb25068",
+  "parameters": { "job_id": "Me2Q2sI2ZmIAAAAAAAAAAA==" },
+  "data": [
+    {
+      "employer_name": "Piper Companies",
+      "employer_logo": null,
+      "employer_website": null,
+      "employer_company_type": null,
+      "job_publisher": "Careers | Piper - Piper Companies",
+      "job_id": "Me2Q2sI2ZmIAAAAAAAAAAA==",
+      "job_employment_type": "FULLTIME",
+      "job_title": "React Developer",
+      "job_apply_link": "https://careers.pipercompanies.com/details/101104/react_developer",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.7376,
+      "job_description": "Piper Companies is currently seeking an experienced Frontend Developer for a fully remote opportunity with a rapidly growing company. The Frontend Developer will join a large scale, long-term government program focusing primarily on coding and supporting new products and applications that are used daily using React, Javascript, git, and more. This opportunity is temp-to-perm.\n\nResponsibilities of the Frontend Developer:\n• React/Material UI design, development, and management.\n• Building reusable components and modules for future utilization by using React, Redux, JavaScript, Node.js.\n• Develop new UI components focused on the user experience\n• Work with ISSO on application security guidelines, implementation of security and data protection\n\nQualifications of the React Developer:\n• 4+ years as a Frontend or fullstack engineer\n• Strong experience in Javascript, CSS, HTML, React, Redux, as well as strong experience in Node.js or Express.js\n• An understanding of Cloud computing—including Azure app slots, Azure SQL, Azure Function Apps preferred\n• Bachelor’s Degree in Computer Science or related field, or equivalent professional experience\n• This role will require the ability to gain a Public Trust Clearance (US Citizen with at least 3 years of residency)\n\nCompensation for the React Developer:\n• Salary Range: $85,000-$100,000, depending on experience\n• Comprehensive Benefits: Medical, Dental, Vision, PTO, 401K Match, Equity/Stock options (offer package)\n\nKeywords: React, developer, infrastructure, javascript, reactjs, react.js, cloud, Azure, git, node.js, react, redux, angular, frontend, front-end, front end, engineer, UI, API, GIS, CSS, application, security, data, protection",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1683590400,
+      "job_posted_at_datetime_utc": "2023-05-09T00:00:00.000Z",
+      "job_city": null,
+      "job_state": null,
+      "job_country": "US",
+      "job_latitude": 37.09024,
+      "job_longitude": -95.71289,
+      "job_benefits": [
+        "retirement_savings",
+        "health_insurance",
+        "paid_time_off",
+        "dental_coverage"
+      ],
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&q=Me2Q2sI2ZmIAAAAAAAAAAA%3D%3D&cs=1&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=Me2Q2sI2ZmIAAAAAAAAAAA%3D%3D&htidocid=Me2Q2sI2ZmIAAAAAAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": null,
+      "job_offer_expiration_timestamp": null,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": 48,
+        "experience_mentioned": true,
+        "experience_preferred": false
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": true,
+        "degree_preferred": true,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "4+ years as a Frontend or fullstack engineer",
+          "Strong experience in Javascript, CSS, HTML, React, Redux, as well as strong experience in Node.js or Express.js",
+          "Bachelor’s Degree in Computer Science or related field, or equivalent professional experience",
+          "This role will require the ability to gain a Public Trust Clearance (US Citizen with at least 3 years of residency)"
+        ],
+        "Responsibilities": [
+          "React/Material UI design, development, and management",
+          "Building reusable components and modules for future utilization by using React, Redux, JavaScript, Node.js",
+          "Develop new UI components focused on the user experience",
+          "Work with ISSO on application security guidelines, implementation of security and data protection"
+        ],
+        "Benefits": [
+          "Salary Range: $85,000-$100,000, depending on experience",
+          "Comprehensive Benefits: Medical, Dental, Vision, PTO, 401K Match, Equity/Stock options (offer package)"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3",
+      "estimated_salaries": [
+        {
+          "location": "United States",
+          "job_title": "React Developer",
+          "publisher_name": "Glassdoor",
+          "publisher_link": "https://www.glassdoor.com/Salaries/react-developer-salary-SRCH_KO0,15.htm",
+          "min_salary": 54493,
+          "max_salary": 132781,
+          "median_salary": 85062,
+          "salary_period": "YEAR",
+          "salary_currency": "USD"
+        },
+        {
+          "location": "United States",
+          "job_title": "React Developer",
+          "publisher_name": "ZipRecruiter",
+          "publisher_link": "https://www.ziprecruiter.com/Salaries/What-Is-the-Average-React-Developer-Salary-by-State",
+          "min_salary": 71000,
+          "max_salary": 149000,
+          "median_salary": 111177,
+          "salary_period": "YEAR",
+          "salary_currency": "USD"
+        },
+        {
+          "location": "United States",
+          "job_title": "React Developer",
+          "publisher_name": "Salary.com",
+          "publisher_link": "https://www.salary.com/research/salary/hiring/react-developer-salary",
+          "min_salary": 67555,
+          "max_salary": 107988,
+          "median_salary": 84677,
+          "salary_period": "YEAR",
+          "salary_currency": "USD"
+        }
+      ],
+      "apply_options": [],
+      "employer_reviews": []
+    }
+  ]
+}
